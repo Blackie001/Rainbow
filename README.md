@@ -74,7 +74,7 @@ This project is licensed under the **MIT License** – feel free to modify and u
 
 ## 💡 Inspiration
 
-> *“Sometimes, the simplest ideas can create the most delightful experiences.”*
+ *“Sometimes, the simplest ideas can create the most delightful experiences.”*
 
 This project began as a casual creative challenge and evolved into an interactive animation experiment.
 
@@ -82,9 +82,10 @@ This project began as a casual creative challenge and evolved into an interactiv
 
 ## 📷 Preview (Add Later)
 
-> You can insert a GIF or screenshot of your webpage here once ready.
+<img width="1920" height="1002" alt="image" src="https://github.com/user-attachments/assets/c2eab747-f42e-4288-88c8-d95336478efb" />
+
 
 ---
 
-### ⭐ If you like it, consider giving the repository a star!
+### ⭐ If you like it, consider giving the repository a star!, recommend it to others as well
 
