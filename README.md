@@ -80,7 +80,7 @@ This project began as a casual creative challenge and evolved into an interactiv
 
 ---
 
-## 📷 Preview (Add Later)
+## 📷 Preview
 
 <img width="1920" height="1002" alt="image" src="https://github.com/user-attachments/assets/c2eab747-f42e-4288-88c8-d95336478efb" />
 
